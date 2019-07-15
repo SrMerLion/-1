@@ -1,0 +1,16 @@
+table {
+  border: 1px solid;
+  width: 100%;
+}
+td,
+th {
+  text-align: center;
+  border: 1px solid;
+  padding: 1px;
+}
+input {
+  text-align: center;
+  border: 0px;
+  padding: 0px;
+  width: 100%;
+}
